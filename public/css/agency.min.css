@@ -169,8 +169,8 @@ to {background-position: 0px;background-size:2150px;}
 }
 
 @keyframes slidein {
-from {background-position: top;background-size:2000px; }
-to {background-position: 0px;background-size:1550px;}
+from {background-position: top;background-size:2800px; }
+to {background-position: 0px;background-size:2200px;}
 }
 
 header.masthead {
